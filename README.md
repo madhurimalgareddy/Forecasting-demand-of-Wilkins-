@@ -10,8 +10,8 @@ Every week, the same problem arose at the local grocery store: either the shelve
 
 This project addresses that challenge by leveraging data-driven techniques to forecast demand, helping businesses strike the perfect balance between supply and demand.This project involves demand forecasting of Wilkins Company which specializes in producing high-quality plumbing products.
 ### Technologies
-R
-Power Point 
+* R
+* Power Point 
 ### Algorithms
 * Exponential smoothing
 * Moving averages(ARIMA)
